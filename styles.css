@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(56, 41, 85);
+}
+
+
+h1{
+    font-family: 'Recursive', sans-serif;
+    color: rgb(85, 168, 142);
+    margin: 300 0px;
+    display: flex;
+    font-variant: small-caps;
+    font-size: 48px;
+}
+
+h2{
+    font-family: 'Recursive', sans-serif;
+    color: rgb(169, 22, 127);
+    display: flex;
+}
+
+/*
+.about-me{
+    background-color: rgb(124, 190, 170);
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0 0 0;
+} */
+
+
+h3{
+    font-family: 'Recursive', sans-serif;
+    color: rgb(165, 38, 182);
+    display: flex;
+    margin: 200px;
+    padding: 40px 0 0 0;
+}
+
+footer{
+    font-family: 'Recursive', sans-serif;
+    color: rgb(85, 168, 142);
+}
+
+.hero{
+    list-style-type: none;
+}
+
+.nav-bar{
+    list-style: none;
+    text-transform: uppercase;
+    justify-content: right;
+    text-align: space-around;
+}
+
+a{
+    font-size: 10px;
+    font-family: 'Recursive', sans-serif;
+    text-decoration: none;
+    color: rgb(85, 168, 142);
+    display: flex;
+    justify-content: right;
+}
+
+.resumeBackground{
+    background-color: rgb(55, 41, 85);
+}
+ 
+.textarea{
+    justify-content: flex-end;
+    padding: 40px 0 0 0;
+}
